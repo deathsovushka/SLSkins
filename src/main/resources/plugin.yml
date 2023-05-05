@@ -1,0 +1,4 @@
+name: SLSkins
+version: '${project.version}'
+main: org.mythril.slskins.SLSkins
+api-version: 1.19
